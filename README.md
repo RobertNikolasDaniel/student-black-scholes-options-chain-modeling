@@ -23,3 +23,5 @@ Vega
 Implied volatility assumptions
 
 The project was tested against live CME E-mini S&P 500 (/ES) options data for validation and educational comparison.
+
+The Eseential lesson learned here is how the different changes in IV, Risk Free, and Time can massively impact the probailities and price modeling of options.
