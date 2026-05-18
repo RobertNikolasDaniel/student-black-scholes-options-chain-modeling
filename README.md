@@ -24,4 +24,4 @@ Implied volatility assumptions
 
 The project was tested against live CME E-mini S&P 500 (/ES) options data for validation and educational comparison.
 
-The important lesson learned here is how the  changes in IV, Risk Free, and Time can impact the probailities and price modeling of options. These skills can be used later on to better understand how to hedge an options portfolio against repo and volatility risk.
+The important lesson learned here is how the  changes in IV, Risk Free, and Time can impact the probabilities and price modeling of options. These skills can be used later on to better understand how to hedge an options portfolio against repo and volatility risk.
